@@ -1,5 +1,3 @@
-GitHub Flow
-
 # GitHub Flow 図解
 
 ## 概要
