@@ -25,23 +25,6 @@ GitLabでも利用可能なFlowです。GitLabの場合は Pull Request を Merg
 * レビューOKになったら、masterへマージ
 * masterへpushしたら、即デプロイをする
 
-## 図解 ( astah* community 版)
+## 図解
 
 ![GitHub Flow](./github_flow.png)
-
-## 図解 ( Gviz 版)
-
-![GitHub Flow](./github_flow_gviz.png)
-
-## 補足1
-
-実際にGitHub Flowを実践したことはありません。（2014/06/12時点）  
-これからチームで導入予定で、メンバーとワークフローを共有するために図を作成しました。  
-ワークフローの誤りなどご指摘いただけると幸いです。  
-
-アクティビティ図をベースに作成してありますが、厳密な記法よりも  
-相手に伝わればいいかな、という点を重視しています。
-
-## 補足2
-
-アクティビティ図は無償UMLモデリングツールの astah* community で作成しました。  
